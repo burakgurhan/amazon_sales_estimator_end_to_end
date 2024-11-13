@@ -1,8 +1,8 @@
-# amazon_sales_estimator_end_to_end
+# Amazon Sales Estimator
  Amazon Products Sales Estimator with Machine Learning
 
  ## Description
- This project builds a machine learning model to estimate the monthly sales of products on Amazon.com.
+ This project builds a machine learning model to estimate the monthly sales of products on Amazon.com based on the Best Seller Rank values.
 It aims to help sellers make informed decisions about inventory management and profitability.
 
 ## Data
